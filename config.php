@@ -1,6 +1,6 @@
 <?php
 $databaseHost = 'localhost';
-$databaseName = 'users-web';
+$databaseName = 'users-demo';
 $databaseUsername = 'users';
 $databasePassword = 'P@ssw0rd2020';
 
