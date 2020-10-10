@@ -1,6 +1,6 @@
-create database users-demo;
+create database usersdemo;
 
-use users-demo;
+use usersdemo;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL auto_increment,
