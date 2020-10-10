@@ -1,6 +1,6 @@
-create database skills-sg;
+create database users;
 
-use skills-sg;
+use users;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL auto_increment,
